@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/samplereactapp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/samplereactapp/static/js/main.a4a6dcff.chunk.js",
+    "main.js.map": "/samplereactapp/static/js/main.a4a6dcff.chunk.js.map",
+    "runtime-main.js": "/samplereactapp/static/js/runtime-main.ba4fbc65.js",
+    "runtime-main.js.map": "/samplereactapp/static/js/runtime-main.ba4fbc65.js.map",
+    "static/js/2.98902153.chunk.js": "/samplereactapp/static/js/2.98902153.chunk.js",
+    "static/js/2.98902153.chunk.js.map": "/samplereactapp/static/js/2.98902153.chunk.js.map",
+    "static/js/3.722b1821.chunk.js": "/samplereactapp/static/js/3.722b1821.chunk.js",
+    "static/js/3.722b1821.chunk.js.map": "/samplereactapp/static/js/3.722b1821.chunk.js.map",
+    "index.html": "/samplereactapp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/samplereactapp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.98902153.chunk.js.LICENSE.txt": "/samplereactapp/static/js/2.98902153.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/samplereactapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba4fbc65.js",
+    "static/js/2.98902153.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a4a6dcff.chunk.js"
+  ]
+}
